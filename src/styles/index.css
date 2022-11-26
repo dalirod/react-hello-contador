@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.reloj{
+font-size: 60px;
+
+
+
+}
+
+div {
+margin: 30px;
+}
+
+
+.uno,.dos,.tres,.cuatro,.cinco,.seis{
+    font-weight: 900;
+}
